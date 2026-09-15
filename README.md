@@ -32,7 +32,8 @@ Full details — the menu, save states, and troubleshooting — are in `readme.t
 <img width="1919" height="1034" alt="Screenshot 2026-09-15 224024" src="https://github.com/user-attachments/assets/d64665b9-1a74-4382-a78e-51880e8117e4" />
 <img width="1541" height="1079" alt="Screenshot 2026-09-15 224212" src="https://github.com/user-attachments/assets/906393d4-fe6b-4e03-8507-5d3818294734" />
 <img width="1544" height="1079" alt="Screenshot 2026-09-15 224142" src="https://github.com/user-attachments/assets/e6de05c7-a124-440c-a9ce-199b72faca24" />
-<img width="1919" height="1034" alt="Screenshot 2026-09-15 224040" src="https://github.com/user-attachments/assets/95bee8aa-d35c-4eab-9c6e-542ea6ab5b7d" />
+<img width="1918" height="1033" alt="Screenshot 2026-09-15 224531" src="https://github.com/user-attachments/assets/9619a105-7d19-4850-8361-f61d981df8a8" />
+
 
 
 ## Legal
