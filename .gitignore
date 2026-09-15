@@ -1,0 +1,12 @@
+# The built program ships as a zip on the Releases page, not in the repo.
+*.exe
+*.dll
+*.zip
+readme.txt
+
+# Runtime files created when the game is run from this folder.
+buster.ini
+states/
+*.bmp
+*.log
+crash.log
