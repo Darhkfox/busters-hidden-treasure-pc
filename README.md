@@ -24,7 +24,7 @@ Grab the latest zip from the [**Releases**](../../releases) page, extract it, an
 | Special | H | Y |
 | Start / Pause | Enter | Start |
 | Open menu | Esc | Back / Select |
-| Run Button (If Activated in Cheats) | Left CTRL | RB |
+| Run (If Activated in Cheats) | Left CTRL | RB |
 
 **Hotkeys:** `F11` fullscreen · `F10` widescreen · `F9` video filter · `F5` / `F8` save / load state · `1`–`4` save slot.
 
